@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <script>
+        $(function(){
+            $("#week1content").load("CS5006_Week1.html");
+            $("#week2content").load("CS5006_Week2.html");
+            $("#week3content").load("CS5006_Week3.html");
+            $("#week4content").load("CS5006_Week4.html");
+            $("#week5content").load("CS5006_Week5.html");
+            $("#week6content").load("CS5006_Week6.html");
+            $("#week7content").load("CS5006_Week7.html");
+            $("#teachingStaffcontent").load("CS5006_TeachingStaff.html");
+            $("#syllabuscontent").load("CS5006_Syllabus.html");
+        });
+    </script>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<div class="box-1">
+
+ <h1 class="divUnderline"> CS5006 - Course Map </h1> <hr>
+
+    <p style="font-size: 20px;"> Acquire the Course Monorepo here. Do not do a 'git pull' until class officially starts. </p> <br>
+
+    <button id="week1" type="button" class="collapsible"> <a href="#week1" class="noUnderLineLink">  Week 1 - Introduction to C and Github   |  A1 Guessing Game </a> </button>
+    <div id="week1content" class="content"> </div>
+
+    <button id="week2" type="button" class="collapsible"> <a href="#week2" class="noUnderLineLink">  Week 2 - Data Structures |  A2 - Data Structures </a> </button>
+    <div id="week2content" class="content"> </div>
+
+    <button id="week3" type="button" class="collapsible"> <a href="#week3" class="noUnderLineLink">  Week 3 - Algorithm Analysis   |   A3 - Sorting and Analysis  </a> </button>
+    <div id="week3content" class="content"> </div>
+
+    <button id="week4" type="button" class="collapsible"> <a href="#week4" class="noUnderLineLink">  Week 4 - Other Sorts    |   A4 - Trees and Sorting  </a> </button>
+    <div id="week4content" class="content"> </div>
+
+    <button id="week5" type="button" class="collapsible"> <a href="#week5" class="noUnderLineLink">  Week 5 -Graph Algorithms    |   A5 - Graphs  </a> </button>
+    <div id="week5content" class="content"> </div>
+
+    <button id="week6" type="button" class="collapsible"> <a href="#week6" class="noUnderLineLink">  Week 6 - More Alg. Strategies    |   Make-up assignment  </a> </button>
+    <div id="week6content" class="content"> </div>
+
+    <button id="week7" type="button" class="collapsible"> <a href="#week7" class="noUnderLineLink">  Week 7 - More Alg. Strategies    |   Final Exam  </a> </button>
+    <div id="week7content" class="content"> </div>
+
+    <br>
+    <hr>
+    <br>
+
+
+    <button id="teachingStaff" type="button" class="collapsible"> <a href="#teachingStaff" class="noUnderLineLink"> Teaching Staff  </a> </button>
+    <div id="teachingStaffcontent" class="content"> </div>
+
+    <button id="syllabus" type="button" class="collapsible"> <a href="#teachingStaff" class="noUnderLineLink"> Syllabus  </a> </button>
+    <div id="syllabuscontent" class="content"> </div>
+
+</div>
+
+<div class="box-2">
+    <iframe src="https://calendar.google.com/calendar/embed?src=ibfq0nt0ls5klpv614dkflnkik%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="740" frameborder="0" scrolling="no"></iframe>
+
+</div>
+<script type="text/javascript" src="Expandable.js"> </script>
+
+<!--<div class="topSection" style="text-indent: 30% ">-->
+
+<!--</div>-->
+
+</body>
+</html>

@@ -1,0 +1,111 @@
+.topSection {
+    width: 100%;
+}
+
+.courseNameFont{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+
+}
+
+.courseFont{
+    font-family: 'Roboto', sans-serif;
+}
+
+.courseFont2{
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+}
+
+.fontMedium{
+    font-size: 20px;
+}
+
+.toolbar{
+    width: 10%;
+    height: 80vh;
+    float:left;
+}
+
+.box-1
+{
+    width: 50%;
+    height: 100vh;
+    overflow-y: scroll;
+    float: left;
+
+}
+
+.box-2{
+    width: 50%;
+    height: 100vh;
+    overflow-y: scroll;
+
+}
+
+.noUnderLineLink{
+    text-decoration: none;
+}
+
+.fontHeader{
+    font-family: 'Roboto', sans-serif;
+    color: dodgerblue;
+}
+
+.fontCourseText{
+    font-family: "Courier New";
+    margin: 20px;
+    text-align: justify;
+}
+
+.divUnderline{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/*.collapsible {*/
+    /*background-color: ghostwhite;*/
+    /*color: black;*/
+    /*cursor: pointer;*/
+    /*padding: 18px;*/
+    /*width: 100%;*/
+    /*border: none;*/
+    /*text-align: left;*/
+    /*outline: none;*/
+    /*font-size: 20px;*/
+    /*font-family: 'Roboto', sans-serif;*/
+
+/*}*/
+
+/*.content {*/
+    /*padding: 0 18px;*/
+    /*display: block;*/
+    /*overflow: hidden;*/
+    /*background-color: transparent;*/
+/*}*/
+
+
+.collapsible {
+    background-color:whitesmoke;
+    color: black;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.active, .collapsible:hover {
+    background-color: lightgray;
+}
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: transparent;
+    font-family: 'Roboto', sans-serif;
+}
