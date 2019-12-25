@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2d47cd-90fc-4c41-aff4-dd3ffe96e805" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006_Syllabus.html" afterPath="$PROJECT_DIR$/CS5006_Syllabus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006_TeachingStaff.html" afterPath="$PROJECT_DIR$/CS5006_TeachingStaff.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006_Week1.html" afterPath="$PROJECT_DIR$/CS5006_Week1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006_Week2.html" afterPath="$PROJECT_DIR$/CS5006_Week2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006_Week3.html" afterPath="$PROJECT_DIR$/CS5006_Week3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006_Week4.html" afterPath="$PROJECT_DIR$/CS5006_Week4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006_Week5.html" afterPath="$PROJECT_DIR$/CS5006_Week5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006_Week6.html" afterPath="$PROJECT_DIR$/CS5006_Week6.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006_Week7.html" afterPath="$PROJECT_DIR$/CS5006_Week7.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CS5006_Week1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CS5006_Week1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS5006_Week1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
@@ -61,28 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CS5006_Syllabus.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CS5006_Syllabus.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="50" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="50" />
-              <folding>
-                <element signature="e#3121#3127#0" expanded="true" />
-                <element signature="e#3169#3175#0" expanded="true" />
-                <element signature="e#3175#3181#0" expanded="true" />
-                <element signature="e#3225#3231#0" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#2;n#td#0;n#tr#3;n#table#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#4;n#ul#2;n#td#0;n#tr#3;n#table#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CS5006_Week3.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS5006_Week3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,8 +97,8 @@
       <file leaf-file-name="CS5006_Week6.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS5006_Week6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -120,6 +106,16 @@
       </file>
       <file leaf-file-name="CS5006_Week7.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS5006_Week7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CS5006_Week2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CS5006_Week2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -177,13 +173,16 @@
         <option value="$PROJECT_DIR$/Expandable.js" />
         <option value="$PROJECT_DIR$/main.css" />
         <option value="$PROJECT_DIR$/oldCode.html" />
-        <option value="$PROJECT_DIR$/CS5006_Week2.html" />
-        <option value="$PROJECT_DIR$/CS5006_Week3.html" />
-        <option value="$PROJECT_DIR$/CS5006_Week6.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CS5006_Syllabus.html" />
         <option value="$PROJECT_DIR$/CS5006_TeachingStaff.html" />
         <option value="$PROJECT_DIR$/CS5006_Week1.html" />
+        <option value="$PROJECT_DIR$/CS5006_Week3.html" />
+        <option value="$PROJECT_DIR$/CS5006_Week4.html" />
+        <option value="$PROJECT_DIR$/CS5006_Week5.html" />
+        <option value="$PROJECT_DIR$/CS5006_Week6.html" />
+        <option value="$PROJECT_DIR$/CS5006_Week7.html" />
+        <option value="$PROJECT_DIR$/CS5006_Week2.html" />
       </list>
     </option>
   </component>
@@ -344,12 +343,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574714969275</updated>
-      <workItem from="1574714970928" duration="27132000" />
+      <workItem from="1574714970928" duration="27237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27132000" />
+    <option name="totallyTimeSpent" value="27237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="897" extended-state="0" />
@@ -405,54 +404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
           <caret line="46" column="26" lean-forward="false" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CS5006_Week2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CS5006_Week3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CS5006_Week5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CS5006_Week4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CS5006_Week6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CS5006_Week7.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -513,6 +464,54 @@
             <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#table#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS5006_Week3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS5006_Week4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS5006_Week5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS5006_Week6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS5006_Week7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS5006_Week2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
