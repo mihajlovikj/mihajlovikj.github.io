@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2d47cd-90fc-4c41-aff4-dd3ffe96e805" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS5006.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS5006/Syllabus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS5006/TeachingStaff.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CS5006_Syllabus.html" afterPath="$PROJECT_DIR$/CS3520/Syllabus.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CS5006_TeachingStaff.html" afterPath="$PROJECT_DIR$/CS3520/TeachingStaff.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CS5006_Week1.html" afterPath="$PROJECT_DIR$/CS5006/Week1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CS5006_Week2.html" afterPath="$PROJECT_DIR$/CS5006/Week2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CS5006_Week3.html" afterPath="$PROJECT_DIR$/CS5006/Week3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CS5006_Week4.html" afterPath="$PROJECT_DIR$/CS5006/Week4.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CS5006_Week5.html" afterPath="$PROJECT_DIR$/CS5006/Week5.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CS5006_Week6.html" afterPath="$PROJECT_DIR$/CS5006/Week6.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CS5006_Week7.html" afterPath="$PROJECT_DIR$/CS5006/Week7.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/CS3520.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CS3520/Week1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS3520.html" afterPath="$PROJECT_DIR$/CS3520.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS3520/Syllabus.html" afterPath="$PROJECT_DIR$/CS3520/Syllabus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS3520/TeachingStaff.html" afterPath="$PROJECT_DIR$/CS3520/TeachingStaff.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,11 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CS5006.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CS5006.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS5006.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="38" column="50" lean-forward="true" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+            <state relative-caret-position="62">
+              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -76,8 +67,8 @@
       <file leaf-file-name="CS3520.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS3520.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="78" column="82" lean-forward="true" selection-start-line="78" selection-start-column="82" selection-end-line="78" selection-end-column="82" />
+            <state relative-caret-position="1455">
+              <caret line="97" column="13" lean-forward="false" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -86,31 +77,36 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="TeachingStaff.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CS3520/TeachingStaff.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Syllabus.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS3520/Syllabus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="392">
+              <caret line="65" column="17" lean-forward="true" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+              <folding>
+                <element signature="e#8776#8782#0" expanded="true" />
+                <element signature="e#8822#8828#0" expanded="true" />
+                <element signature="e#8867#8873#0" expanded="true" />
+                <element signature="e#8917#8923#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Week5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CS5006/Week5.html">
+      <file leaf-file-name="Week1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CS3520/Week1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Week4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CS5006/Week4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -172,8 +168,8 @@
       <find>learn</find>
       <find>CS5006</find>
       <find>calend</find>
-      <find>CS3520_</find>
       <find>c</find>
+      <find>CS3520_</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;b&gt; Office: &lt;/b&gt;</replace>
@@ -201,8 +197,11 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CS5006_Week1.html" />
         <option value="$PROJECT_DIR$/CS5006.html" />
-        <option value="$PROJECT_DIR$/CS3520.html" />
         <option value="$PROJECT_DIR$/CS5006/TeachingStaff.html" />
+        <option value="$PROJECT_DIR$/CS3520/TeachingStaff.html" />
+        <option value="$PROJECT_DIR$/CS3520.html" />
+        <option value="$PROJECT_DIR$/CS3520/Syllabus.html" />
+        <option value="$PROJECT_DIR$/CS3520/Week1.html" />
       </list>
     </option>
   </component>
@@ -272,6 +271,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CS5006" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PersonalWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PersonalWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS3520" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -379,12 +392,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574714969275</updated>
-      <workItem from="1574714970928" duration="32878000" />
+      <workItem from="1574714970928" duration="37083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32878000" />
+    <option name="totallyTimeSpent" value="37083000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -535,25 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CS3520/Syllabus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CS3520.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="78" column="82" lean-forward="true" selection-start-line="78" selection-start-column="82" selection-end-line="78" selection-end-column="82" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CS5006/TeachingStaff.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -569,14 +563,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CS3520/TeachingStaff.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CS5006.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="38" column="50" lean-forward="true" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        <state relative-caret-position="62">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS3520.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="97" column="13" lean-forward="false" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS3520/Syllabus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="65" column="17" lean-forward="true" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+          <folding>
+            <element signature="e#8776#8782#0" expanded="true" />
+            <element signature="e#8822#8828#0" expanded="true" />
+            <element signature="e#8867#8873#0" expanded="true" />
+            <element signature="e#8917#8923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS3520/Week1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="76" lean-forward="false" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
