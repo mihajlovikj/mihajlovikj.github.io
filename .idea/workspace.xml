@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2d47cd-90fc-4c41-aff4-dd3ffe96e805" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS3520/Week1.html" afterPath="$PROJECT_DIR$/CS3520/Week1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS3520/TeachingStaff.html" afterPath="$PROJECT_DIR$/CS3520/TeachingStaff.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006/TeachingStaff.html" afterPath="$PROJECT_DIR$/CS5006/TeachingStaff.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5006/Week1.html" afterPath="$PROJECT_DIR$/CS5006/Week1.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,8 +35,8 @@
       <file leaf-file-name="TeachingStaff.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS5006/TeachingStaff.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+            <state relative-caret-position="105">
+              <caret line="7" column="153" lean-forward="false" selection-start-line="7" selection-start-column="153" selection-end-line="7" selection-end-column="153" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#!!top" expanded="true" />
@@ -52,21 +52,11 @@
       <file leaf-file-name="Week1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS5006/Week1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="128" lean-forward="false" selection-start-line="30" selection-start-column="128" selection-end-line="30" selection-end-column="128" />
+            <state relative-caret-position="165">
+              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
               <folding>
-                <marker date="1577999051901" expanded="true" signature="914:1750" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="936:956" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="957:1740" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="1768:1788" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="1789:2455" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="1903:2444" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="2475:3626" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="2488:3616" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="2650:3601" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="2805:3174" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="2977:3152" ph="..." />
-                <marker date="1577999051901" expanded="true" signature="3274:3583" ph="..." />
+                <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#table#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -85,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TeachingStaff.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TeachingStaff.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CS3520/TeachingStaff.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+            <state relative-caret-position="105">
+              <caret line="7" column="153" lean-forward="false" selection-start-line="7" selection-start-column="153" selection-end-line="7" selection-end-column="153" />
               <folding />
             </state>
           </provider>
@@ -110,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Week1.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Week1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS3520/Week1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -168,8 +158,8 @@
       <find>calend</find>
       <find>more resou</find>
       <find>CS3520_</find>
-      <find>lynda</find>
       <find>c</find>
+      <find>lynda</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;b&gt; Office: &lt;/b&gt;</replace>
@@ -197,12 +187,12 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CS5006_Week1.html" />
         <option value="$PROJECT_DIR$/CS5006.html" />
-        <option value="$PROJECT_DIR$/CS5006/TeachingStaff.html" />
-        <option value="$PROJECT_DIR$/CS3520/TeachingStaff.html" />
         <option value="$PROJECT_DIR$/CS3520.html" />
         <option value="$PROJECT_DIR$/CS3520/Syllabus.html" />
-        <option value="$PROJECT_DIR$/CS5006/Week1.html" />
         <option value="$PROJECT_DIR$/CS3520/Week1.html" />
+        <option value="$PROJECT_DIR$/CS5006/Week1.html" />
+        <option value="$PROJECT_DIR$/CS5006/TeachingStaff.html" />
+        <option value="$PROJECT_DIR$/CS3520/TeachingStaff.html" />
       </list>
     </option>
   </component>
@@ -393,12 +383,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574714969275</updated>
-      <workItem from="1574714970928" duration="38415000" />
+      <workItem from="1574714970928" duration="39002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38415000" />
+    <option name="totallyTimeSpent" value="39002000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -411,8 +401,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="883" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -537,29 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CS5006/TeachingStaff.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="52" column="8" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CS3520/TeachingStaff.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CS5006.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
@@ -595,27 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CS5006/Week1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="128" lean-forward="false" selection-start-line="30" selection-start-column="128" selection-end-line="30" selection-end-column="128" />
-          <folding>
-            <marker date="1577999051901" expanded="true" signature="914:1750" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="936:956" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="957:1740" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="1768:1788" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="1789:2455" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="1903:2444" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="2475:3626" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="2488:3616" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="2650:3601" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="2805:3174" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="2977:3152" ph="..." />
-            <marker date="1577999051901" expanded="true" signature="3274:3583" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JavaScript-modules-diagram//Users/vidojemihajlovikj/WebstormProjects/PersonalWebsite/CS5006/Week1.html">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -637,6 +584,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS5006/Week1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS5006/TeachingStaff.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="153" lean-forward="false" selection-start-line="7" selection-start-column="153" selection-end-line="7" selection-end-column="153" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#1;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#2;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#3;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS3520/TeachingStaff.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="153" lean-forward="false" selection-start-line="7" selection-start-column="153" selection-end-line="7" selection-end-column="153" />
           <folding />
         </state>
       </provider>
