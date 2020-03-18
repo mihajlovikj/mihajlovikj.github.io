@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CS5007.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CS5007.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS5007.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="379">
@@ -77,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Week3.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Week3.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CS5007/Week3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="265">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -420,12 +420,12 @@
       <updated>1574714969275</updated>
       <workItem from="1574714970928" duration="57838000" />
       <workItem from="1581708981041" duration="3548000" />
-      <workItem from="1582842156136" duration="2601000" />
+      <workItem from="1582842156136" duration="2695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63987000" />
+    <option name="totallyTimeSpent" value="64081000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -849,18 +849,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CS5007/Week3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CS5007.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
           <caret line="33" column="104" lean-forward="false" selection-start-line="33" selection-start-column="104" selection-end-line="33" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CS5007/Week3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding />
         </state>
       </provider>
