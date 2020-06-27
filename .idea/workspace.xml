@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f2d47cd-90fc-4c41-aff4-dd3ffe96e805" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/MLB2008.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5007.html" afterPath="$PROJECT_DIR$/CS5007.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5007/Syllabus.html" afterPath="$PROJECT_DIR$/CS5007/Syllabus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5007/Week1.html" afterPath="$PROJECT_DIR$/CS5007/Week1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5007/Week2.html" afterPath="$PROJECT_DIR$/CS5007/Week2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5007/Week3.html" afterPath="$PROJECT_DIR$/CS5007/Week3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5007/Week4.html" afterPath="$PROJECT_DIR$/CS5007/Week4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5007/Week5.html" afterPath="$PROJECT_DIR$/CS5007/Week5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5007/Week6.html" afterPath="$PROJECT_DIR$/CS5007/Week6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CS5007/Week7.html" afterPath="$PROJECT_DIR$/CS5007/Week7.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,16 +18,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CS5006.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CS5006.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="71" column="0" lean-forward="true" selection-start-line="70" selection-start-column="2" selection-end-line="71" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Week5.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS5007/Week5.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CS5007.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CS5007.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CS5007.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
@@ -56,6 +38,16 @@
               <folding>
                 <marker date="1592514683773" expanded="false" signature="1176:1192" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MLB2008.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/media/MLB2008.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/CS5007/Week2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <marker date="1592515531746" expanded="false" signature="1210:1230" ph="..." />
               </folding>
@@ -86,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/CS5007/Week3.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <caret line="14" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding>
                 <marker date="1592510817804" expanded="false" signature="1309:1329" ph="..." />
               </folding>
@@ -108,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/CS5007/Week7.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -118,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/CS5007/Week4.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="124" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="124" />
+              <caret line="21" column="124" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="124" />
               <folding>
                 <marker date="1592510817813" expanded="false" signature="1517:1537" ph="..." />
               </folding>
@@ -130,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/CS5007/Week6.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <caret line="15" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -337,15 +329,15 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CS5006" />
+      <recent name="$PROJECT_DIR$/media/" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/media" />
       <recent name="$PROJECT_DIR$/CS5007" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/CS3520" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CS5006" />
-      <recent name="$PROJECT_DIR$/media/" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -446,12 +438,12 @@
       <workItem from="1586829082697" duration="2377000" />
       <workItem from="1588010025251" duration="2026000" />
       <workItem from="1588955221620" duration="5607000" />
-      <workItem from="1592483538151" duration="2367000" />
+      <workItem from="1592483538151" duration="2644000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80134000" />
+    <option name="totallyTimeSpent" value="80411000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -497,13 +489,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/media/exampleScript.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CS5007/Week2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -820,7 +805,7 @@
     <entry file="file://$PROJECT_DIR$/CS5007/Week3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <caret line="14" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
             <marker date="1592510817804" expanded="false" signature="1309:1329" ph="..." />
           </folding>
@@ -840,7 +825,7 @@
     <entry file="file://$PROJECT_DIR$/CS5007/Week6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <caret line="15" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -848,7 +833,7 @@
     <entry file="file://$PROJECT_DIR$/CS5007/Week7.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -856,7 +841,7 @@
     <entry file="file://$PROJECT_DIR$/CS5007/Week4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="124" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="124" />
+          <caret line="21" column="124" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="124" />
           <folding>
             <marker date="1592510817813" expanded="false" signature="1517:1537" ph="..." />
           </folding>
@@ -874,7 +859,7 @@
     <entry file="file://$PROJECT_DIR$/CS5007/Week2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <marker date="1592515531746" expanded="false" signature="1210:1230" ph="..." />
           </folding>
@@ -888,6 +873,14 @@
           <folding>
             <marker date="1592514683773" expanded="false" signature="1176:1192" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/MLB2008.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
