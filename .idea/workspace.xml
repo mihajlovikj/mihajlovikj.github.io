@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5f2d47cd-90fc-4c41-aff4-dd3ffe96e805" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CS5007/Week6.html" beforeDir="false" afterPath="$PROJECT_DIR$/CS5007/Week6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS5007Week4_Rubric.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS5007/Week4.html" beforeDir="false" afterPath="$PROJECT_DIR$/CS5007/Week4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,15 +86,17 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/CS5006" />
-      <recent name="$PROJECT_DIR$/media/" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/media" />
       <recent name="$PROJECT_DIR$/CS5007" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/CS3520" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/CS5007" />
+      <recent name="$PROJECT_DIR$/CS5006" />
+      <recent name="$PROJECT_DIR$/media/" />
     </key>
   </component>
   <component name="RunManager">
@@ -116,7 +138,7 @@
       <workItem from="1593871790014" duration="616000" />
       <workItem from="1594233566954" duration="781000" />
       <workItem from="1594234690507" duration="1532000" />
-      <workItem from="1594844710371" duration="752000" />
+      <workItem from="1594844710371" duration="2049000" />
     </task>
     <servers />
   </component>
@@ -131,6 +153,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="781" y="327" key="SettingsEditor" timestamp="1594844786685">
